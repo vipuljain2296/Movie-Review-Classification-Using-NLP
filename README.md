@@ -14,7 +14,7 @@ Movie Review Classification using NLP(Natural Language Processing) and ML(Machin
 
 --> SVM classifier : https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
 
-
+<pre>
 CLASSIFICATION REPORT :
 
                     precision recall    f1-score  support
@@ -28,3 +28,4 @@ weighted avg        0.90      0.90      0.90     15000
 
 
 ACCURACY SCORE : 0.9013333333333333
+</pre>
